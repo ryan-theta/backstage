@@ -63,11 +63,11 @@
     "@backstage/catalog-model": "workspace:^",
     "@backstage/config": "workspace:^",
     "@backstage/errors": "workspace:^",
-    "@backstage/integration": "workspace:^",
+    "@backstage/integration": "0.1.0",
     "@backstage/integration-aws-node": "workspace:^",
     "@backstage/plugin-catalog-common": "workspace:^",
     "@backstage/plugin-catalog-node": "workspace:^",
-    "@backstage/plugin-kubernetes-common": "workspace:^",
+    "@backstage/plugin-kubernetes-common": "0.1.0",
     "p-limit": "^3.0.2",
     "uuid": "^9.0.0",
     "winston": "^3.2.1"
