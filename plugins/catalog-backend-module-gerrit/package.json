@@ -47,12 +47,12 @@
     "test": "backstage-cli package test"
   },
   "dependencies": {
-    "@backstage/backend-common": "workspace:^",
+    "@backstage/backend-common": "0.25.0",
     "@backstage/backend-plugin-api": "workspace:^",
     "@backstage/backend-tasks": "workspace:^",
     "@backstage/config": "workspace:^",
     "@backstage/errors": "workspace:^",
-    "@backstage/integration": "workspace:^",
+    "@backstage/integration": "0.1.0",
     "@backstage/plugin-catalog-node": "workspace:^",
     "fs-extra": "^11.2.0",
     "node-fetch": "^2.7.0",
