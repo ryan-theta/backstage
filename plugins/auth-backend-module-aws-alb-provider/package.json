@@ -37,10 +37,10 @@
     "test": "backstage-cli package test"
   },
   "dependencies": {
-    "@backstage/backend-common": "workspace:^",
+    "@backstage/backend-common": "0.25.0",
     "@backstage/backend-plugin-api": "workspace:^",
-    "@backstage/errors": "workspace:^",
-    "@backstage/plugin-auth-backend": "workspace:^",
+    "@backstage/errors": "0.1.1",
+    "@backstage/plugin-auth-backend": "0.23.0",
     "@backstage/plugin-auth-node": "workspace:^",
     "jose": "^5.0.0",
     "node-cache": "^5.1.2",
