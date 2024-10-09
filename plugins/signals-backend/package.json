@@ -45,7 +45,7 @@
     "@backstage/plugin-signals-node": "workspace:^",
     "@backstage/types": "workspace:^",
     "@types/express": "*",
-    "express": "^4.17.1",
+    "express": "^4.21.1",
     "express-promise-router": "^4.1.0",
     "http-proxy-middleware": "^2.0.0",
     "node-fetch": "^2.7.0",
