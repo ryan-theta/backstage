@@ -71,7 +71,7 @@
     "@backstage/plugin-techdocs-common": "workspace:^",
     "@backstage/plugin-techdocs-node": "workspace:^",
     "@types/express": "^4.17.6",
-    "express": "^4.17.1",
+    "express": "^4.21.1",
     "express-promise-router": "^4.1.0",
     "fs-extra": "^11.2.0",
     "knex": "^3.0.0",
