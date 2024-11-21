@@ -43,7 +43,7 @@
     "@backstage/config": "workspace:^",
     "@backstage/integration-aws-node": "workspace:^",
     "@backstage/plugin-notifications-common": "workspace:^",
-    "@backstage/plugin-notifications-node": "workspace:^",
+    "@backstage/plugin-notifications-node": "0.2.9",
     "@backstage/types": "workspace:^",
     "lodash": "^4.17.21",
     "nodemailer": "^6.9.13",
