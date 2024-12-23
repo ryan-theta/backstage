@@ -50,7 +50,7 @@
   "dependencies": {
     "@backstage-community/plugin-explore-common": "^0.0.4",
     "@backstage/backend-common": "workspace:^",
-    "@backstage/backend-plugin-api": "workspace:^",
+    "@backstage/backend-plugin-api": "1.1.0",
     "@backstage/backend-tasks": "workspace:^",
     "@backstage/config": "workspace:^",
     "@backstage/plugin-search-backend-node": "workspace:^",
