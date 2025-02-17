@@ -35,11 +35,11 @@
   "dependencies": {
     "@backstage/backend-common": "workspace:^",
     "@backstage/backend-plugin-api": "workspace:^",
-    "@backstage/catalog-model": "workspace:^",
+    "@backstage/catalog-model": "0.1.1",
     "@backstage/errors": "workspace:^",
     "@backstage/plugin-auth-node": "workspace:^",
     "@backstage/plugin-catalog-node": "workspace:^",
-    "@backstage/plugin-catalog-unprocessed-entities-common": "workspace:^",
+    "@backstage/plugin-catalog-unprocessed-entities-common": "0.0.1",
     "@backstage/plugin-permission-common": "workspace:^",
     "express-promise-router": "^4.1.1",
     "knex": "^3.0.0"
