@@ -34,7 +34,7 @@
   },
   "dependencies": {
     "@backstage/backend-plugin-api": "workspace:^",
-    "@backstage/catalog-model": "workspace:^",
+    "@backstage/catalog-model": "0.1.1",
     "@backstage/plugin-auth-node": "workspace:^",
     "@types/passport-oauth2": "^1.4.15",
     "jose": "^5.0.0",
