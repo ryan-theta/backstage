@@ -39,8 +39,8 @@
   "dependencies": {
     "@azure/identity": "^4.0.0",
     "@backstage/config": "workspace:^",
-    "@backstage/errors": "workspace:^",
-    "@octokit/auth-app": "^4.0.0",
+    "@backstage/errors": "0.1.1",
+    "@octokit/auth-app": "^7.2.1",
     "@octokit/rest": "^19.0.3",
     "cross-fetch": "^4.0.0",
     "git-url-parse": "^14.0.0",
