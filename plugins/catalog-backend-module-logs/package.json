@@ -34,7 +34,7 @@
   },
   "dependencies": {
     "@backstage/backend-plugin-api": "workspace:^",
-    "@backstage/plugin-catalog-backend": "workspace:^",
+    "@backstage/plugin-catalog-backend": "1.25.0",
     "@backstage/plugin-events-node": "workspace:^"
   },
   "devDependencies": {
