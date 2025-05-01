@@ -47,7 +47,7 @@
     "@backstage/plugin-kubernetes-backend": "workspace:^",
     "@backstage/plugin-permission-backend": "workspace:^",
     "@backstage/plugin-permission-common": "workspace:^",
-    "@backstage/plugin-permission-node": "workspace:^",
+    "@backstage/plugin-permission-node": "0.1.0",
     "@backstage/plugin-proxy-backend": "workspace:^",
     "@backstage/plugin-scaffolder-backend": "workspace:^",
     "@backstage/plugin-scaffolder-backend-module-confluence-to-markdown": "workspace:^",
