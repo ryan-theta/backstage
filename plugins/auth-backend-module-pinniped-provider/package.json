@@ -33,7 +33,7 @@
     "test": "backstage-cli package test"
   },
   "dependencies": {
-    "@backstage/backend-plugin-api": "workspace:^",
+    "@backstage/backend-plugin-api": "0.1.0",
     "@backstage/config": "workspace:^",
     "@backstage/plugin-auth-node": "workspace:^",
     "luxon": "^3.4.3",
