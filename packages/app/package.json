@@ -68,7 +68,7 @@
     "@backstage/plugin-techdocs": "workspace:^",
     "@backstage/plugin-techdocs-module-addons-contrib": "workspace:^",
     "@backstage/plugin-techdocs-react": "workspace:^",
-    "@backstage/plugin-user-settings": "workspace:^",
+    "@backstage/plugin-user-settings": "0.1.1",
     "@backstage/theme": "workspace:^",
     "@material-ui/core": "^4.12.2",
     "@material-ui/icons": "^4.9.1",
