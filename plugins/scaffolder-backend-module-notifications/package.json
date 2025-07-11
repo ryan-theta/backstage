@@ -33,10 +33,10 @@
     "test": "backstage-cli package test"
   },
   "dependencies": {
-    "@backstage/backend-common": "workspace:^",
+    "@backstage/backend-common": "0.24.1",
     "@backstage/backend-plugin-api": "workspace:^",
     "@backstage/plugin-notifications-common": "workspace:^",
-    "@backstage/plugin-notifications-node": "workspace:^",
+    "@backstage/plugin-notifications-node": "0.0.1",
     "@backstage/plugin-scaffolder-node": "workspace:^",
     "octokit": "^3.0.0",
     "yaml": "^2.0.0"
