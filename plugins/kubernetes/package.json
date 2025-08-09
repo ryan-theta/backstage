@@ -59,10 +59,10 @@
   },
   "dependencies": {
     "@backstage/catalog-model": "workspace:^",
-    "@backstage/core-compat-api": "workspace:^",
-    "@backstage/core-components": "workspace:^",
+    "@backstage/core-compat-api": "0.0.0",
+    "@backstage/core-components": "0.1.0",
     "@backstage/core-plugin-api": "workspace:^",
-    "@backstage/frontend-plugin-api": "workspace:^",
+    "@backstage/frontend-plugin-api": "0.0.0",
     "@backstage/plugin-catalog-react": "workspace:^",
     "@backstage/plugin-kubernetes-common": "workspace:^",
     "@backstage/plugin-kubernetes-react": "workspace:^",
