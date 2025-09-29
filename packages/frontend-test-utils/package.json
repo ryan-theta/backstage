@@ -31,11 +31,11 @@
     "test": "backstage-cli package test"
   },
   "dependencies": {
-    "@backstage/config": "workspace:^",
+    "@backstage/config": "0.1.1",
     "@backstage/frontend-app-api": "workspace:^",
     "@backstage/frontend-plugin-api": "workspace:^",
     "@backstage/test-utils": "workspace:^",
-    "@backstage/types": "workspace:^"
+    "@backstage/types": "0.1.1"
   },
   "devDependencies": {
     "@backstage/cli": "workspace:^",
