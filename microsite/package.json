@@ -19,7 +19,7 @@
   },
   "prettier": "@spotify/prettier-config",
   "dependencies": {
-    "@docusaurus/core": "^3.1.1",
+    "@docusaurus/core": "^3.9.0",
     "@docusaurus/plugin-client-redirects": "^3.1.1",
     "@docusaurus/preset-classic": "^3.1.1",
     "@docusaurus/types": "^3.1.1",
