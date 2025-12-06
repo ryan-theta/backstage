@@ -54,13 +54,13 @@
     "test": "backstage-cli package test"
   },
   "dependencies": {
-    "@backstage/backend-common": "workspace:^",
+    "@backstage/backend-common": "0.24.1",
     "@backstage/backend-plugin-api": "workspace:^",
     "@backstage/catalog-model": "workspace:^",
     "@backstage/errors": "workspace:^",
-    "@backstage/integration": "workspace:^",
-    "@backstage/plugin-scaffolder-common": "workspace:^",
-    "@backstage/types": "workspace:^",
+    "@backstage/integration": "0.1.0",
+    "@backstage/plugin-scaffolder-common": "0.1.0",
+    "@backstage/types": "0.1.1",
     "concat-stream": "^2.0.0",
     "fs-extra": "^11.2.0",
     "globby": "^11.0.0",
