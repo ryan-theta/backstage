@@ -38,11 +38,11 @@
     "test": "backstage-cli package test"
   },
   "dependencies": {
-    "@backstage/core-components": "workspace:^",
-    "@backstage/core-plugin-api": "workspace:^",
+    "@backstage/core-components": "0.1.0",
+    "@backstage/core-plugin-api": "0.1.0",
     "@backstage/errors": "workspace:^",
     "@backstage/plugin-notifications-common": "workspace:^",
-    "@backstage/plugin-signals-react": "workspace:^",
+    "@backstage/plugin-signals-react": "0.0.1",
     "@backstage/theme": "workspace:^",
     "@backstage/types": "workspace:^",
     "@material-ui/core": "^4.9.13",
