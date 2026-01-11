@@ -38,7 +38,7 @@
     "test": "backstage-cli package test"
   },
   "dependencies": {
-    "@backstage/backend-common": "workspace:^",
+    "@backstage/backend-common": "0.24.1",
     "@backstage/backend-plugin-api": "workspace:^",
     "@backstage/catalog-client": "workspace:^",
     "@backstage/catalog-model": "workspace:^",
@@ -47,7 +47,7 @@
     "@backstage/plugin-auth-node": "workspace:^",
     "@backstage/plugin-events-node": "workspace:^",
     "@backstage/plugin-notifications-common": "workspace:^",
-    "@backstage/plugin-notifications-node": "workspace:^",
+    "@backstage/plugin-notifications-node": "0.2.4",
     "@backstage/plugin-signals-node": "workspace:^",
     "express": "^4.17.1",
     "express-promise-router": "^4.1.0",
