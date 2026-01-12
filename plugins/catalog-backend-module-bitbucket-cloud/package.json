@@ -52,7 +52,7 @@
   },
   "dependencies": {
     "@backstage/backend-common": "workspace:^",
-    "@backstage/backend-plugin-api": "workspace:^",
+    "@backstage/backend-plugin-api": "0.1.0",
     "@backstage/backend-tasks": "workspace:^",
     "@backstage/catalog-client": "workspace:^",
     "@backstage/catalog-model": "workspace:^",
@@ -60,7 +60,7 @@
     "@backstage/integration": "workspace:^",
     "@backstage/plugin-bitbucket-cloud-common": "workspace:^",
     "@backstage/plugin-catalog-common": "workspace:^",
-    "@backstage/plugin-catalog-node": "workspace:^",
+    "@backstage/plugin-catalog-node": "1.0.0",
     "@backstage/plugin-events-node": "workspace:^",
     "uuid": "^9.0.0"
   },
