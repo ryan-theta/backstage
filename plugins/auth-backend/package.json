@@ -43,7 +43,7 @@
     "test": "backstage-cli package test"
   },
   "dependencies": {
-    "@backstage/backend-common": "workspace:^",
+    "@backstage/backend-common": "0.24.1",
     "@backstage/backend-plugin-api": "workspace:^",
     "@backstage/catalog-client": "workspace:^",
     "@backstage/catalog-model": "workspace:^",
@@ -61,9 +61,9 @@
     "@backstage/plugin-auth-backend-module-microsoft-provider": "workspace:^",
     "@backstage/plugin-auth-backend-module-oauth2-provider": "workspace:^",
     "@backstage/plugin-auth-backend-module-oauth2-proxy-provider": "workspace:^",
-    "@backstage/plugin-auth-backend-module-oidc-provider": "workspace:^",
+    "@backstage/plugin-auth-backend-module-oidc-provider": "0.2.4",
     "@backstage/plugin-auth-backend-module-okta-provider": "workspace:^",
-    "@backstage/plugin-auth-backend-module-onelogin-provider": "workspace:^",
+    "@backstage/plugin-auth-backend-module-onelogin-provider": "0.1.0",
     "@backstage/plugin-auth-node": "workspace:^",
     "@backstage/plugin-catalog-node": "workspace:^",
     "@backstage/types": "workspace:^",
