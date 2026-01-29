@@ -31,11 +31,11 @@
   },
   "dependencies": {
     "@backstage/cli-common": "workspace:^",
-    "@backstage/release-manifests": "workspace:^",
+    "@backstage/release-manifests": "0.0.1",
     "@yarnpkg/core": "^4.0.3",
     "@yarnpkg/fslib": "^3.0.2",
     "chalk": "^4.0.0",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "semver": "^7.6.0"
   },
   "devDependencies": {
